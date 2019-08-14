@@ -1,7 +1,17 @@
 img {
   width: 350px;
+  display: block;
+  margin: 0 auto;
+}
+
+#head {
+  text-align: center;
+  font-family: serif;
+  color: #002080;
+  font-size: 70px;
 }
 
 .lang {
   color: #ff9900;
+  font-weight: bold;
 }
