@@ -10,7 +10,7 @@ This program is designed to show my portfolio, and all that I have learned in CS
 * Copy the GitHub Directory to your computer
 * Open on your preferred browser
 
-### [GitHub Repository](https://github.com/CommaderDavid/Portfolio-Final)
+### [GitHub Repository](https://commaderdavid.github.io/Portfolio-Final/)
 
 ### License
 This program is licensed under MIT.
